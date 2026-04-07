@@ -145,16 +145,19 @@ Highlighted high-risk vendors through intuitive visuals
 
 ### Dashboard Screenshots
 #### Vendor Overview
-<img width="1349" height="750" alt="1" src="https://github.com/user-attachments/assets/839d8418-a60c-4a10-979f-5bb31c92aed9" />
+<img width="1535" height="757" alt="1" src="https://github.com/user-attachments/assets/8532100a-751a-4c45-9a9a-c969132ab982" />
 
 #### Cost vs Quality Analysis
-<img width="1335" height="732" alt="2" src="https://github.com/user-attachments/assets/479a818a-717e-4efc-9853-a363ce95653b" />
+<img width="1529" height="746" alt="2" src="https://github.com/user-attachments/assets/6a6d211f-fd6e-49aa-9576-ec3e99bbd599" />
+
 
 #### Negotiation Performance
-<img width="1338" height="760" alt="3" src="https://github.com/user-attachments/assets/f26e5370-e9bc-4ef4-8d4e-320f774934b3" />
+<img width="1525" height="775" alt="3" src="https://github.com/user-attachments/assets/9efffe80-fb4e-433c-9aea-733e8848c1e2" />
+
 
 #### Vendor Risk Dashboard
-<img width="1346" height="739" alt="4" src="https://github.com/user-attachments/assets/e945b740-36bf-47ad-b7e2-65e5fc897fdb" />
+<img width="1545" height="772" alt="4" src="https://github.com/user-attachments/assets/fa3e2be5-31bf-42dd-bf24-0eedfab85933" />
+
 
 ## Recommendations
  Reduce dependency on Delta_Logistics due to high defect and compliance risk
