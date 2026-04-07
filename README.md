@@ -179,15 +179,8 @@ Automate procurement monitoring with real-time dashboards
 
 Integrate external supplier performance data
 
-## Final Note
 
-### This project demonstrates the ability to:
 
-Translate raw data into business insights
-
-Build end-to-end analytical workflows
-
-Deliver decision-focused dashboards
 
 
 
